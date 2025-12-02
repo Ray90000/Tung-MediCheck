@@ -1,0 +1,5 @@
+{
+  "name": "MediCheck - 藥品盤點管理系統",
+  "description": "專為醫院護理站與藥局設計的藥品盤點與稽核系統，包含數量查核、合規稽核與報表管理功能。",
+  "requestFramePermissions": []
+}
